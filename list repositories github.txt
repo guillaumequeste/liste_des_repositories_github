@@ -1,0 +1,47 @@
+Liste des projets
+
+React : - bases-react
+	- films
+	- hippodromes
+	- timeline-histoire
+	- bibliotheque
+	- JO
+	- ecurie
+	- agence
+	- Test_React
+	- paris_normandie
+
+Angular : - bases-angular
+	  - Normandie
+	  - fruits_et_legumes
+	  - NBA_Angular
+	  - maSuperAgence
+
+Redux : - bases-react-redux
+	- bases-react-redux2
+	- Kids
+
+Symfony : - mon-agence
+	  - Courses
+
+PHP : - Agence_immo
+      - cours_php
+      - tableau_dynamique_php
+      - bases-php-espace-membres
+      - bases-php-bdd
+      - bases-php-minichat
+      - blog-php
+      - test_immo
+      - noel
+      - damier
+
+HTML : - Systeme_solaire
+       - traduction
+       - meteo_api
+       - openstreetmap
+
+Autres : - test-test
+	 - PremierProjetgit
+	 - chat
+	 - list_repositories_github
+	 - MonProjet
