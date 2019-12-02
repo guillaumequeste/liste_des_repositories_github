@@ -23,6 +23,7 @@ Redux : - bases-react-redux
 
 Vue : - bases-vue
 	  - tests-vue
+	  - litterature
 
 Symfony : - mon-agence
 	  - Courses
