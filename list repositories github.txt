@@ -22,6 +22,7 @@ Redux : - bases-react-redux
 	- Kids
 
 Vue : - bases-vue
+	  - tests-vue
 
 Symfony : - mon-agence
 	  - Courses
