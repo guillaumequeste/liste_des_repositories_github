@@ -1,7 +1,7 @@
 Liste des projets
 
 React : - bases-react
-	- films
+	- cinema
 	- hippodromes
 	- timeline-histoire
 	- bibliotheque
