@@ -10,6 +10,7 @@ React : - bases-react
 	- agence
 	- Test_React
 	- paris_normandie
+	- bases-gatsby
 
 Angular : - bases-angular
 	  - Normandie
