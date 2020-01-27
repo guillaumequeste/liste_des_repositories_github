@@ -11,6 +11,7 @@ React : - bases-react
 	- Test_React
 	- paris_normandie
 	- bases-gatsby
+	- cuisine
 
 Angular : - bases-angular
 	  - Normandie
