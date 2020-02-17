@@ -10,7 +10,6 @@ React : - bases-react
 	- bibliotheque
 	- JO
 	- ecurie
-	- agence
 	- Test_React
 	- paris_normandie
 	- bases-gatsby
