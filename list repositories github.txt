@@ -4,6 +4,8 @@ React : - bases-react
 	- bases-react-firebase
 	- bases-react-express-sqlite-front
 	- bases-react-express-sqlite-back
+	- mern-crud-front
+	- mern-crud-back
 	- cinema
 	- hippodromes
 	- timeline-histoire
