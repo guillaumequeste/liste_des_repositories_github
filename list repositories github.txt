@@ -16,6 +16,7 @@ React : - bases-react
 	- paris_normandie
 	- bases-gatsby
 	- cuisine
+	- mern-patrimoine
 
 Angular : - bases-angular
 	  - Normandie
