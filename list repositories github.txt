@@ -17,6 +17,7 @@ React : - bases-react
 	- bases-gatsby
 	- cuisine
 	- mern-patrimoine
+	- Weather
 
 Angular : - bases-angular
 	  - Normandie
