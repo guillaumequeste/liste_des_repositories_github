@@ -54,8 +54,5 @@ HTML : - bases-html-sass-css-js
        - openstreetmap
 	   - API
 
-Autres : - test-test
-	 - PremierProjetgit
-	 - chat
-	 - list_repositories_github
-	 - MonProjet
+Autres : - chat
+		 - list_repositories_github
