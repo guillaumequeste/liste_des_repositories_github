@@ -25,6 +25,8 @@ Angular : - bases-angular
 	  - NBA_Angular
 	  - maSuperAgence
 
+Ionic : - bases-ionic-angular
+
 Redux : - bases-react-redux
 	- bases-react-redux2
 	- Kids
