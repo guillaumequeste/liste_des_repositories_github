@@ -18,6 +18,7 @@ React : - bases-react
 	- cuisine
 	- mern-patrimoine
 	- Weather
+	- decouverte
 
 Angular : - bases-angular
 	  - Normandie
