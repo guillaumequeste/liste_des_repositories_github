@@ -38,6 +38,7 @@ Vue : - bases-vue
 Symfony : - bases-symfony
 		  - mon-agence
 		  - Courses
+		  - panterest
 
 PHP : - Agence_immo
       - cours_php
