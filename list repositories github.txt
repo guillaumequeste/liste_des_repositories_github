@@ -33,7 +33,8 @@ Redux : - bases-react-redux
 	- bases-react-redux2
 	- Kids
 
-Vue : - bases-vue
+Vue : - bases-vue3
+	  - bases-vue
 	  - tests-vue
 	  - litterature
 
