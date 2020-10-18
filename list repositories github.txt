@@ -1,5 +1,7 @@
 Liste des projets
 
+Private : - mediashow
+
 React : - bases-react
 	- bases-react-firebase
 	- bases-react-express-sqlite-front
